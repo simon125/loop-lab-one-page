@@ -36,6 +36,12 @@ body{
     padding: 5px;
     border-radius: 6px;
 }
+.create-section .fas{
+    color: #050505;
+    background: rgb(230, 222, 222);
+    padding: 5px;
+    border-radius: 6px;
+}
 .explore-head-section{
     background-color: #333 !important;
 }
@@ -44,5 +50,5 @@ body{
     color: white;
     padding: 5px;
     border-radius: 5px;
-    
+
 }
