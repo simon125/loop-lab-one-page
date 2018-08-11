@@ -6,7 +6,8 @@ LoopLAB site is a one page training site which I made with Bootstap course for t
 
 If you want watch progress and resultat of my work you can click on the link below or on the top of GH site 
 
-[LINK]("https://simon125.github.io/loop-lab-one-page/")
+
+[I'm the link to LoopLAB site :)](https://simon125.github.io/loop-lab-one-page)
 
 ## Tech
 
