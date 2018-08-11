@@ -6,7 +6,7 @@ LoopLAB site is a one page training site which I made with Bootstap course for t
 
 If you want watch progress and resultat of my work you can click on the link below or on the top of GH site 
 
-[LINK](to paste)
+[LINK]("https://simon125.github.io/loop-lab-one-page/")
 
 ## Tech
 
@@ -17,7 +17,7 @@ If you want watch progress and resultat of my work you can click on the link bel
 
 ## Todos
 
-> validation of forms
-> change jq smooth scrolling to Vanilla JS smooth scrolling
+- validation of forms
+- change jq smooth scrolling to Vanilla JS smooth scrolling
 
-### Very thanks to Brad Traversy for his tutorial which constantly introduce to Front-end world
+### Very thanks to Brad Traversy for his tutorial which constantly introduce me to Front-end world
